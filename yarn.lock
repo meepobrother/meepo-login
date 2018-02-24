@@ -4034,9 +4034,9 @@ meepo-themes@^1.0.7:
   dependencies:
     swiper "^4.1.0"
 
-meepo-we7-router@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/meepo-we7-router/-/meepo-we7-router-1.2.0.tgz#5ac6516ab34af80b2305114d746b72eab4863caa"
+meepo-we7-router@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/meepo-we7-router/-/meepo-we7-router-1.2.1.tgz#8cc66e99ade164ddd27017a0b3b70d5ade27715a"
 
 mem@^1.1.0:
   version "1.1.0"
